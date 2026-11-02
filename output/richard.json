@@ -1,0 +1,58 @@
+{
+    "invoice_number": "01234",
+    "invoice_date": "11.02.2030",
+    "due_date": "11.03.2030",
+    "vendor_name": "",
+    "vendor_address": "",
+    "bill_to": "Richard Sanchez, Thynk Unlimited, 123 Anywhere St., Any City",
+    "ship_to": "",
+    "sub_total": "$400",
+    "tax_rate": "10%",
+    "tax_amount": "$40",
+    "total_amount": "$440",
+    "balance_due": "$440",
+    "line_items": [
+        {
+            "item": "Brand consultation",
+            "description": "",
+            "quantity": "1",
+            "unit_price": "100",
+            "amount": "$100"
+        },
+        {
+            "item": "logo design",
+            "description": "",
+            "quantity": "1",
+            "unit_price": "100",
+            "amount": "$100"
+        },
+        {
+            "item": "Website design",
+            "description": "",
+            "quantity": "1",
+            "unit_price": "100",
+            "amount": "$100"
+        },
+        {
+            "item": "Social media templates",
+            "description": "",
+            "quantity": "1",
+            "unit_price": "100",
+            "amount": "$100"
+        },
+        {
+            "item": "Brand photography",
+            "description": "",
+            "quantity": "1",
+            "unit_price": "100",
+            "amount": "$100"
+        },
+        {
+            "item": "Brand guide",
+            "description": "",
+            "quantity": "1",
+            "unit_price": "100",
+            "amount": "$100"
+        }
+    ]
+}

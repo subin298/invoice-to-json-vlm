@@ -1,0 +1,44 @@
+{
+    "invoice_number": "IN1PNQ220010664",
+    "invoice_date": "29-Apr-22",
+    "due_date": "28-Jun-22",
+    "vendor_name": "SKF INDIA LTD",
+    "vendor_address": "CHINCHWAD, PUNE 411033 MAHARASHTRA - 27",
+    "bill_to": "",
+    "ship_to": "",
+    "sub_total": "1.951,00",
+    "tax_rate": "CGST 9%=175.59 SGST 9%=176.59 CGST 9%=358.20 SGST 9%=168.57 CGST 9%=422.50 SGST 9%=425.50",
+    "tax_amount": "",
+    "total_amount": "5,893,82",
+    "balance_due": "",
+    "line_items": [
+        {
+            "item": "SOLAS/VGM Fee",
+            "description": "USD 25.00 @",
+            "quantity": "1",
+            "unit_price": "2,302.18",
+            "amount": ""
+        },
+        {
+            "item": "Pick up / collection",
+            "description": "USD 51.00 @",
+            "quantity": "1",
+            "unit_price": "4,696.44",
+            "amount": ""
+        },
+        {
+            "item": "THC (Terminal Handling charge)",
+            "description": "USD 24.00 @ USD 0.4000",
+            "quantity": "1",
+            "unit_price": "2,210.10",
+            "amount": ""
+        },
+        {
+            "item": "Delivery order fee",
+            "description": "",
+            "quantity": "1",
+            "unit_price": "2,950.00",
+            "amount": ""
+        }
+    ]
+}

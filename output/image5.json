@@ -1,0 +1,142 @@
+{
+    "invoice_number": "MBI-45",
+    "invoice_date": "24/07/2024",
+    "due_date": "",
+    "vendor_name": "M/S MAX BRUSH INDUSTRY",
+    "vendor_address": "NAYAK SARAI STREET, POST - SHERKOT DISTRICT - BILOR PIN CODE - 246747 (U.P.)",
+    "bill_to": "MAX ASSOCIATES",
+    "ship_to": "",
+    "sub_total": "1,70,563.20",
+    "tax_rate": "18%",
+    "tax_amount": "30,701.38",
+    "total_amount": "2,01,265.00",
+    "balance_due": "",
+    "line_items": [
+        {
+            "item": "TRIO TOUCHWOOD 50mm",
+            "description": "",
+            "quantity": "1,200",
+            "unit_price": "28.00",
+            "amount": "33,600.00"
+        },
+        {
+            "item": "TRIO TOUCHWOOD 63mm",
+            "description": "",
+            "quantity": "1,200",
+            "unit_price": "35.00",
+            "amount": "42,000.00"
+        },
+        {
+            "item": "TRIO TOUCHWOOD 75mm",
+            "description": "",
+            "quantity": "1,200",
+            "unit_price": "42.00",
+            "amount": "50,400.00"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 1 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "39.60",
+            "amount": "950.40"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 2 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "39.60",
+            "amount": "950.40"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 3 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "39.60",
+            "amount": "950.40"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 4 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "52.80",
+            "amount": "1,267.20"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 5 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "66.00",
+            "amount": "1,584.00"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 6 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "79.20",
+            "amount": "1,900.80"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 7 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "92.40",
+            "amount": "2,217.60"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 8 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "105.60",
+            "amount": "2,534.40"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 9 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "118.80",
+            "amount": "2,851.20"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 10 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "132.00",
+            "amount": "3,168.00"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 12 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "158.40",
+            "amount": "3,801.60"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 14 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "184.80",
+            "amount": "4,435.20"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 16 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "211.20",
+            "amount": "5,913.60"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 18 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "237.60",
+            "amount": "5,702.40"
+        },
+        {
+            "item": "TRIO PLUS TAKLON FLAT 20 NO.",
+            "description": "",
+            "quantity": "24",
+            "unit_price": "264.00",
+            "amount": "6,336.00"
+        }
+    ]
+}
